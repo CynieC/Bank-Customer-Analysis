@@ -16,7 +16,7 @@
 * Customers with tertiary education are more likely to deposit with the company as compared to those with secondary and primary education.
 * Majority of the bank's customers are between 30-40 years old while the oldest range between 60-95 years old.
 
-##Installs
+## Installs
 * Pandas
 * Numpy
 * Matplotlib
