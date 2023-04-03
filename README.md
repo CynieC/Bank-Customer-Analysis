@@ -1,4 +1,4 @@
-# Bank-Marketing-Analysis
+# Bank-Customer-Analysis
 
 ## Introduction
 * Banks are constantly analysing data to understand their ideal customers
